@@ -1,36 +1,40 @@
-# Android Project 2 - *Wishlist*
+# Android Project 5 - *BitFit Part 1*
 
 Submitted by: **Habeebah Muse**
 
-**Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
+**Name of your app** is a health metrics app that allows users to track ... [TODO] 
 
-Time spent: **2** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **User can add an item to their wishlist**
-- [x] **User can see their list of items based on previously inputted items**
-
+- [x] **At least one health metric is tracked (based on user input)**
+  - Chosen metric(s): `[Food and calories]`
+- [x] **There is a "create entry" UI that prompts users to make their daily entry**
+- [x] **New entries are saved in a database and then updated in the RecyclerView**
+- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+ 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [ ] **Create a UI for tracking averages and trends in metrics**
+- [ ] **Improve and customize the user interface through styling and coloring**
+- [ ] **Implement orientation responsivity**
+- [ ] **Add a daily photo feature**
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/bmA3TIemUm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/qN4j3IENND.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with record.it
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
